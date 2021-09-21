@@ -1,0 +1,13 @@
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.exe
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.deps.json
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.runtimeconfig.json
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.runtimeconfig.dev.json
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.dll
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\bin\Debug\netcoreapp3.1\Punto4_Proyecto.pdb
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.AssemblyInfoInputs.cache
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.AssemblyInfo.cs
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.dll
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.pdb
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.genruntimeconfig.cache
+C:\Users\Florencia Galan\Desktop\Galán_María Florencia del Valle\Solucion_Punto4\Punto4_Proyecto\obj\Debug\netcoreapp3.1\Punto4_Proyecto.csproj.AssemblyReference.cache
