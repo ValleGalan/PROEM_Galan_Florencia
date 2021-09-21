@@ -68,7 +68,7 @@ namespace Punto4_Proyecto
 
                 Console.WriteLine("Desea seguir ingresando datos:(s/S ) "+ resp);
                 Console.ReadKey();
-            } while (resp== "s" || resp == "S");
+            } while (resp!= "s" || resp != "S");
             
             double promedio = acumvalor / contotal;
 
